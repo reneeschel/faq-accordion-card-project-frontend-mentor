@@ -7,7 +7,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -28,10 +27,6 @@ Users should be able to:
 
 ![](/images/mentor-faq-accordion-project/screenshot-faq-accordion-card-project-frontend-mentor.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
@@ -42,9 +37,7 @@ Users should be able to:
 - JavaScript
 
 ## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/rainscout)
+- Twitter - [@rainscout](https://www.twitter.com/rainscout)
 
 
 
